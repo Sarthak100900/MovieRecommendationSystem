@@ -19,7 +19,11 @@ Evaluating the system: Once the recommendation system is built, it is important 
 
 Requirements
 Python 3.6 or higher
+
 TensorFlow 2.0 or higher
+
 NumPy
+
 Pandas
+
 Matplotlib
